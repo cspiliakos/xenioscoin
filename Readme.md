@@ -2,7 +2,7 @@
 
 Coin Abbreviation: XNC
 
-Total Sum of Coins: 108,000,000
+Total Sum of Coins: 108.000.000
 
 Xenios is a business and investment-oriented cryptocurrency. 
 It offers anonymous, secure and fast transactions. 
